@@ -3,3 +3,5 @@
 안녕하세요~
 
 오늘 배고픔
+
+코드 수정후 저장. git add 1.txt .  git commit -m "~"
